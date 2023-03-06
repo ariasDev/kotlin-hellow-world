@@ -8,5 +8,4 @@ class HellowWorldKotlinApplication
 
 fun main(args: Array<String>) {
 	runApplication<HellowWorldKotlinApplication>(*args)
-	println("hellow world")
 }
